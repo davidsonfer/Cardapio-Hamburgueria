@@ -29,3 +29,4 @@ Tailwind CSS: Utilizado para estilização moderna e responsiva.
 Exibição de itens do cardápio com descrições e preços.
 Navegação simples e intuitiva.
 Design responsivo que se adapta a diferentes tamanhos de tela.
+Integração com API do WhatsApp, para enviar o pedido e endereço de entrega.
