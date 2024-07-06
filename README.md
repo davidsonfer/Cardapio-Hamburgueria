@@ -6,6 +6,8 @@ Bem-vindo ao repositório do projeto de cardápio para uma hamburgueria! Este pr
 
 
 🌟 Visão Geral
+
+
 Este projeto tem como objetivo fornecer uma maneira atraente e eficiente de exibir os itens do cardápio de uma hamburgueria. A aplicação é totalmente responsiva, garantindo uma ótima experiência de usuário em dispositivos móveis e desktops.
 
 
