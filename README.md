@@ -13,11 +13,19 @@ Este projeto tem como objetivo fornecer uma maneira atraente e eficiente de exib
 
 
 🛠️ Tecnologias Utilizadas
+
+
 HTML: Utilizado para a estrutura do site.
+
 CSS: Utilizado para estilização básica.
+
 JavaScript: Utilizado para interatividade e funcionalidades dinâmicas.
+
 Tailwind CSS: Utilizado para estilização moderna e responsiva.
+
 📋 Funcionalidades
+
+
 Exibição de itens do cardápio com descrições e preços.
 Navegação simples e intuitiva.
 Design responsivo que se adapta a diferentes tamanhos de tela.
